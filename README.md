@@ -30,5 +30,3 @@ Please make sure to update tests as appropriate.
 ## License
 
 [MIT](https://mit-license.org/)
-
-![git image](https://github.com/SarahOuf/git-course-lab2-iti/blob/main/images/git-image.png)
